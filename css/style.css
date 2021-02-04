@@ -440,7 +440,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   top: 0;
   left: 0;
-  background: url("/img/16 1.png");
+  background: url("../img/main.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -591,7 +591,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0 0 50% 0;
   }
   .title {
-    background: url("../img/16 1.png") center/cover no-repeat;
+    background: url("../img/main.png") center/cover no-repeat;
   }
   .title__row {
     width: 100%;
